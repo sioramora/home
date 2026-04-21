@@ -2,7 +2,7 @@
     "update_version": "2",
     "show_ads": "10",
     "update_link": "com.minel.speedy",
-    "github": "https://mibcloudb.com",
+    "domain": "https://miacloud1.com",
     "code_1": "",
     "code_2": "23120430036,23309663612",
     "code_3": "23120430036,23309663612",
